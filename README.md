@@ -3,7 +3,7 @@
 - :man: **Desenvolvedor de Software**
 - :brazil: **Brasília**
 - :computer: **Java EE** | **Spring Boot** | **TypeScript** | **Angular** | **SQL** | **Git** | **Docker**
-
+- :nerd_face: Estou estudando atualmente: **Node.js** e **Express.js**
 
 ### :mailbox: Contato:
 [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/israelferreira)](https://github.com/israelferreira) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-ferreira-filho/)](https://www.linkedin.com/in/israel-ferreira-filho/) [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:israelferreira5@outlook.com)](mailto:israelferreira5@outlook.com)
