@@ -1,7 +1,7 @@
 ## Olá, eu sou o Israel Ferreira! 👋
 
-- :man: **Desenvolvedor Full Stack**
-- **Brasília** :brazil:
+- :man: **Desenvolvedor de Software**
+- :brazil: **Brasília**
 - :computer: **Java EE** | **Spring Boot** | **TypeScript** | **Angular** | **SQL** | **Git** | **Docker**
 
 
